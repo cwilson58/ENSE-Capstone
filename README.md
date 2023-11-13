@@ -18,3 +18,24 @@ One game that heavily inspired our idea for Project Valence is called 'Plate Up'
 
 ## Vlog Link
 Vlog 1 - [https://www.youtube.com/watch?v=XWV1ut0_08I](https://www.youtube.com/watch?v=XWV1ut0_08I)
+
+## Initialization Doccuments
+
+### [Business Case](InitializationDocs/BusinessCase.pdf)
+### [Communication Management Plan](InitializationDocs/CommunicationManagementPlan.pdf)
+### [Low Fidelity Drawings](InitializationDocs/LowFidelityDrawings.pdf)
+### [Project Valence Roadmap](InitializationDocs/ProjectValenceRoadmap.pdf)
+### [Project Requirements Document](InitializationDocs/ProjectRequirementsDocument.pdf)
+### [Project Scope Statement](InitializationDocs/ProjectScopeStatement.pdf)
+### [RACI Chart](InitializationDocs/RACIChart.pdf)
+### [Stakeholder Engagement Plan](InitializationDocs/StakeholderEngagementPlan.pdf)
+### [Stakeholder Register](InitializationDocs/StakeholderRegister.pdf)
+### [Storyboard](InitializationDocs/Storyboard.pdf)
+
+
+## Game Design Doccumentation
+
+### [Gameplay Ideas](GameDesignDocs\Gameplay.md)
+### [Machine Ideas](GameDesignDocs\Machines.md)
+### [Recipe Ideas](GameDesignDocs\Recipes.md)
+
