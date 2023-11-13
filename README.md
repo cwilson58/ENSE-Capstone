@@ -35,7 +35,7 @@ Vlog 1 - [https://www.youtube.com/watch?v=XWV1ut0_08I](https://www.youtube.com/w
 
 ## Game Design Doccumentation
 
-### [Gameplay Ideas](GameDesignDocs\Gameplay.md)
-### [Machine Ideas](GameDesignDocs\Machines.md)
-### [Recipe Ideas](GameDesignDocs\Recipes.md)
+### [Gameplay Ideas](GameDesignDocs/Gameplay.md)
+### [Machine Ideas](GameDesignDocs/Machines.md)
+### [Recipe Ideas](GameDesignDocs/Recipes.md)
 
