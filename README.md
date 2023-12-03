@@ -18,6 +18,7 @@ One game that heavily inspired our idea for Project Valence is called 'Plate Up'
 
 ## Vlog Link
 Vlog 1 - [https://www.youtube.com/watch?v=XWV1ut0_08I](https://www.youtube.com/watch?v=XWV1ut0_08I)
+Vlog 2 - [https://www.youtube.com/watch?v=t_021nSpBWI]
 
 ## Initialization Doccuments
 
