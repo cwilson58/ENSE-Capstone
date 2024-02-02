@@ -136,3 +136,41 @@ Didn't notice the hand in bottom left. Said the floating item was okay.
 Tried to interact with some of the decor to mess with it.
 
 Add to user testing: what did you find fun?
+
+
+### Tester Name
+Noah Pennignton
+### Tester Gaming Experience Level
+Advanced PC gaming ability
+
+### Targeted Questions
+
+1. How did the control scheme feel?
+    Controls felt clunky and might be better on a controller
+2. How did you like the overall shape of the level?
+    Rectangle wasted a lot of time running around, OG map is perfect, "eyeball map" make the hallways a little wider to make it easier to navigate
+3. How did you like the layout of Depos, Fridges, and machines?
+    Liked the randomness, "fake trash" was a bit painfull, colour did not help make them different, blue fridge is a good stark contrast
+4. Did you find the counter tops usefull?
+    Once they started being used are nearly essential, the time now for what you are making its nearly essential
+5. Was the GUI useable?
+    The time looked at once or twice near the end, give a warning at about 4:30, clipboards are nice and fitting
+6. Did you prefer the item slot, hovering item, neither, or both?
+    above the head is nice, prefer on the head but both are usable
+7. What was the percieved difficulty of the game?
+    feels more mid game than early game, too hard for the first level
+8. What did you find fun?
+    the concept is fun, figuring everything out is fun, really enjoy that you don't know what everything is right away. Like the three contract choice.
+
+### Did the user need help to learn the game mechanics from the test supervisor?
+Game mechanics felt intuitive, especially for this style
+
+### Did the user finish level one? How many attempts?
+6 attempts, completed 4 penicillin
+### Was there any game breaking bugs?
+Yes, on a new map the depo can be hard to get to because of the thin hallway that requires alignment within a couple px.
+### General feedback/suggestions from the tester:
+Timer goes behind the head, kinda funky and don't like it.
+No audio is strange
+codex style recipe book, discover first then put it in, high mental load
+clock flash red near midnight in stardew, that would help, tried with controller and felt instantly better

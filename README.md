@@ -3,7 +3,7 @@ Our ENSE 2023-24 Capstone project is designing a casual strategy game based on c
 
 ## Table of Contents
 1. Game Releases
-    * [PreAlpha v0.0.1](https://www.youtube.com/watch?v=8ybW48rKBME&ab_channel=xyzmusic)
+    * [PreAlpha v0.0.1](https://drive.google.com/file/d/1-pNhrrtKu_SsJhlYNJCxSJfyWQam4DbT/view?usp=sharing)
 2. Testing
     * [PreAlpha v0.0.1](UserTestingDocs/FeedbackDocs/PreAlpha0.0.1.md)
 3. Initialization Documents
@@ -22,7 +22,7 @@ Our ENSE 2023-24 Capstone project is designing a casual strategy game based on c
     * [Gameplay Ideas](GameDesignDocs/Gameplay.md)
     * [Machine Ideas](GameDesignDocs/Machines.md)
     * [Recipe Ideas](GameDesignDocs/Recipes.md)
-5. Vlog Links    
+5. Vlog Links
     * [Vlog One](https://www.youtube.com/watch?v=XWV1ut0_08I)
     * [Vlog Two](https://www.youtube.com/watch?v=t_021nSpBWI)
 
