@@ -12,7 +12,7 @@ Mix Aspergillus and Sugar Solution together, then use Calcium Hydroxide as a cat
 
 Machines: Chemical Mixer, Chemical Separator
 
-## Bio Diesel 
+## Bio Diesel
 
 Mix Lye and Methanol, then mix in some hot oil before using water as a catalyst to separate out the Bio Diesel
 
