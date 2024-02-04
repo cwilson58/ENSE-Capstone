@@ -34,6 +34,8 @@ What am I doing? What is in the fridges? Aliasing looks rough, what do the depos
 Glass doors on the fridge to see the item inside would be nice. Zoom in the camera (note: already implemented post test).
 A tutorial would also be nice.
 
+---
+
 ### Tester Name
 Luke
 
@@ -67,6 +69,7 @@ same bugs as already noted
 #### NOTE: This was before the final test version was complete
 What is the blue fridge?
 
+---
 
 ### Tester Name
 Adam Tilson
@@ -137,6 +140,7 @@ Tried to interact with some of the decor to mess with it.
 
 Add to user testing: what did you find fun?
 
+---
 
 ### Tester Name
 Noah Pennignton
@@ -175,6 +179,7 @@ No audio is strange
 codex style recipe book, discover first then put it in, high mental load
 clock flash red near midnight in stardew, that would help, tried with controller and felt instantly better
 
+---
 
 ### Tester Name
 Phoenix
@@ -208,6 +213,8 @@ Player did not expierence any
 Seperator doesn't look like a machine, game feels slow for level 1, enjoy that its a one handed game.
 Put items on counter next to the fridge it came from in order to remember what was where.
 Why is the player an "absolute unit"?
+
+---
 
 ### Tester Name
 
@@ -280,6 +287,8 @@ A way to add more machines to your lab. This could be a purchasable or earnable 
 I understand the RAMS update will add hazards, but I do think a way to investigate or research hazards should be implemented so the player can reduce any penalties that hazard may impose. Also, I think an Ice hazard that makes your characer slip (like in the pokemon games) is a must/classic.
 When there are more recipes, adding a free-roam mode that can allow the player to use all ingredients to make any recipe with no time limit.
 
+---
+
 ### Tester Name
 Joshua Myslichuk
 
@@ -335,6 +344,7 @@ I think the game could be a fun one and obviously needs more to it.
 It could be nice to have a system that records recipes once you figure
 them out. I also think some more colour to the maps would be nice.
 
+---
 
 ### Tester Name:
 Shaun Myslichuk
@@ -407,6 +417,8 @@ Making the character sprite collision box a little smaller to fit into 1x1 space
 Hoverable tooltips on things to know what is in what, specifically machines.
 Ties into above but perhaps colour coded fridges? Doesn't have to match items just be unique at a glance.
 
+---
+
 ### Tester Name
 David Gibson
 ### Tester Gaming Experience Level
@@ -440,6 +452,7 @@ No Bugs Encountered
 To take the game further you might want to consider adding more variations to the recipes. new machines and possibly a cooperative mode with larger quotas to fill.
 If you can get some basic gameplay instructions down somewhere for first time players i think that'll really improve your score as frustration will go down significantly.
 
+---
 
 ### Tester Name
 Jacob Sim
@@ -480,3 +493,151 @@ What is going on?
 A Tutorial could be helpfull, but don't defeat the purpose of discovering the recipe
 Multiplayer would be fun
 
+---
+
+### Tester Name
+Charles Osachoff
+
+### Tester Gaming Experience Level
+Relatively low, mainly plays flash games, but has played a few oldschool games like CIV.
+
+### Targeted Questions
+
+1. How did the control scheme feel?
+The arrow keys felt better than WASD, and I am not a "controller guy".
+But since I am used to flash games, I would prefer mouse-only. So clicking on a fridge will path my character towards it (similar to CIV), and then I could click grab/take or start instead of keyboard interaction (this may be useful if we want to provide similar functionality to a mobile implementation).
+The [E] and [SPACE] took some getting used to, and I would sometimes be pressing the wrong one for functionality.
+
+2. How did you like the overall shape of the level?
+Other than getting caught on things, the layout felt okay. But the one layout I got caught on the fridge and had to restart (see impossiblelevel3.png)
+
+3. How did you like the layout of Depos, Fridges, and machines?
+They were not too bad, I thought the vending machine could give me multiple items, and some of the machines didn't stand out.
+It would be nice to see what the fridges have in them before having to go up to them.
+
+4. Did you find the counter tops usefull?
+Not yet, but once I figured out the timings and stuff, I think I would definitely pick up items and place them next to machines to optimize my movements.
+
+5. Was the GUI useable?
+I didn't look at any of the GUI on the edges of the screen, and I didn't know the item slot in the bottom-left corner existed until it was pointed out by test supervisor.
+The clipboard was nice.
+I would have liked the time to flash or show in some way that time is running out. There is nothing to prompt you or tell me that I have to finish the contract by 5pm. If the tutorial helped explained it, that could be an improvement. It should turn red when you get to the last hour (similar to Stardew Valley). I think an audio indication could be nice, but I usually play games with sound off.
+I found some of the text hard to read when standing in front of a fridge, it may look better off to the side in the grey space.
+I want a click or hover on the contract clipboard to show the recipe.
+The font was a little clunky, and if fridges are at the bottom, I sometimes miss the "space to start", maybe even make the machine prompts lines closer vertically or have the "[E]" vertically in line with the A in "[SPACE]" which may make it appear nicer to read.
+I wish the question mark popped up something on how to play and what to do. Especially the hover-over/click on the clipboard to see the recipe. Although the tutorial would have taught me those things.
+It would be nice to know what the objects in the lab area when they are not obviously decor. Some machine-like items sucha s a desk with a screen or MRI machine saying what the item is, but no prompt, and the machines saying what they are, and having a prompt (i.e., "mixer" or "separator")
+What is this? (trident-looking icon bottom-right for recipe tree). The buttons shouldn't be there if they have no interactions.
+The font makes it feel like an older game, but it still feels clunky.
+
+6. Did you prefer the item slot, hovering item, neither, or both?
+I like that the player is holding on to it, but I don't know what specifically it is when I am holding it. If you are going to show what it is in the bottom-left item slot, the show the text for what it is, but I still prefer the item over my head.
+
+7. What was the percieved difficulty of the game?
+It was difficult in the beginning because I didn't have the recipe and what needed to go where. I likely would have made garbage if I didn't know penicillin was mold plus something else. It wasn't too hard once I knew what to do, but I just kept running out of time.
+
+8. What did you find fun?
+I found it interesting finding out what you needed to do, which is why I found running out of time on the first day frustrating. So an infinite mode / tutorial could teach you the core concepts, but some of the harder modes could allow seasoned players to play under more difficult circumstances.
+
+### Did the user need help to learn the game mechanics from the test supervisor?
+I needed the control scheme to move provided to me.
+I tried to interact with a few things that are non-interactable, and the test supervisor had to tell me that interactable things have a prompt popup.
+I needed some prompting to find which machine may be the separator to make penicillin. I thought the separator was a computer.
+
+### Did the user finish level one? How many attempts?
+No, on my last of 4 attempts I only completed 3/4 of the penicillin in my contract. But I was able to optimize by performing some actions while machines were in progress, and likely would have completed the same contract on the next day.
+
+### Was there any game breaking bugs?
+I tried putting acetic acid in the separator with unprocessed penicillium already in there, and was kicked back to main menu (Cause unknown. Was running release so no debug output to view. May have been from pressing e or spacebar when attempting to interact with the machine? Bug not easily repoducable)
+"Unprocessed Penicillium" item text did not fit within the popup box and the text was partially outside of the left and right sides of it.
+I put two of the same item in the mixer and I wanted to remove one instead of making garbage (take item not functional)
+I was unable to access a fridge in the bottom left-corner of one of the maps (Small3.tscn, tester recommended restart)
+
+### General feedback/suggestions from the tester:
+I really want a recipe given to me, I tried clicking on the clipboard or hovering it to see what I need to do in order to make the final product, but I can't figure out how to make things without a recipe. A tutorial would be really nice in this case.
+I was curious and wanted to pickup more than one thing at a time, (why?), because the player has two hands so he can hold two things. But it was fair that the character can only hold two things.
+I was constantly getting stuck between the tables and the tree decor on the big level (Small2.tscn, see tablesandtrees.png).
+
+![tables and trees](./tablesandtrees.png)
+
+I tried to interact with the vending machine because it seems interactable.
+I knew that I ran out of time when it reached 5pm, but I didn't know where to look in the second attempt of how much time is left.
+It was very easy to get stuck on things that have a much bigger hitbox that appearance (chairs, trees, and some other miscellaneous objects).
+It wasn't obvious until pointed out by supervisor that all fridges had a required component, and I thought some may be useless. That might be cool to have fridges that contain ingredients you don't need.
+I like the different decor objects scattered about, I just wish they had some interactions or popups when you interact with them.
+I wish the vending machine could give you a energy drink or consumable that would make you faster or some cool interaction.
+I felt like I ran out time for day one, but if I was more comfortable with the game after a tutorial, I would have like a bit more time (maybe +50% more time).
+I would really like a pause button from either the settings/help/recipes buttons in the bottom-left so I can stand-up and walk away and then come back and keep playing. Or clicking on the clock in the top-right could pause the game.
+I think it could be enjoyable to play without a hard time-limit. Meaning there was no deadline at the end of the day, and instead after failing at the end of day 1, it would flip to day 2, then day 3, and so on until I complete the contract.
+So upgrades or rewards would scale with how quick the user completes it.
+If you want to annoy somebody, but a cat or something obnoxious in the game that gets in your way, such as a cat (see King's Quest game, where you will fall down the stairs if you don't kick the cat down the stairs).
+The fridges being a different colour for each item might make them stand out more.
+Once you succeed, a door opening in the lab to bring you to a new lab / upgrade section could be cooler than a popup of day passed.
+I thought the mat was a pillar or something physical you could run into, until I walked over it, and I thought the "i" poster was an info.
+I think it could be cool to customize your character of changing your hair/gender/skin tone/clothing.
+The item name was also cutoff in some cases
+
+---
+
+### Tester Name
+Yvette Osachoff
+
+### Tester Gaming Experience Level
+Very low (Did not know WASD was common for movement)
+
+### Targeted Questions
+
+1. How did the control scheme feel?
+WASD felt very weird, arrow keys felt better, and controller felt best.
+
+2. How did you like the overall shape of the level?
+The overall shape and architecture of the level was okay... but I got stuck on a lot of things. Some areas were impossible to get to or very hard to get around (see impossiblelevel2.png).
+I mainly got stuck on areas that were 1 floor tile wide to walk through and got caught on the counter or decor.
+
+![impossible level 2](./impossiblelevel2.png)
+
+3. How did you like the layout of Depos, Fridges, and machines?
+Every level being layed out differently felt good, and it seemed like a point of the game was to find where stuff was. I liked that I didn't know where everything was and I had to remember where everything was once I found out.
+
+4. Did you find the counter tops usefull?
+Once I knew what I was doing, I would have used the countertops a lot more, but I didn't know what to make or how to make them, so I never needed to put things on the counters.
+
+5. Was the GUI useable?
+I never looked at the time, it was tucked away and I need it to be more urgent (ran out of time on the first day without ever knowing there is a time limit).
+It would have been nice to have some indication that it is 12:00 and you need to get moving. An audio indication for time would have been nice, and they didn't know that they failed because they ran out of time.
+The GUI kind of blended in, to the point that there was no exaggeration of what time it is and if you should pay attention to it.
+When prompted with the "hover and see recipe on the clipboard" option, I would prefer to see exactly what to make stuff instead of the option of "having it blacked-out and show once I create new things".
+I don't look at my left, I look at my right to see things, so I would prefer to see content (GUI) on the right side of the screen instead of the left. (Would you have liked to pick that option?) Yes it would feel much nicer, I always go to the right.
+
+6. Did you prefer the item slot, hovering item, neither, or both?
+I liked that the item was hovering over my head, and I never looked at the bottom left item slot and didn't know it existed until told by tester. Once made aware of the item slot, I still prefer the hovering item since I am already looking at the character.
+
+7. What was the percieved difficulty of the game?
+For me, I had no clue what the whole idea / premise of the game, which made it very difficult early on. I didn't know that I had to mix A, B, and C to make D.
+It felt so much easier to use the controller after using the keyboard first, because "I am more of a mouse person rather than keyboard" (user may have preferred mouse-only movement).
+I would have played it again though. I need an explanation of what to do and what ingredients can make the final product.
+
+8. What did you find fun?
+I kinda liked the idea of grabbing and finding new things to mix stuff, but it needs polish, I don't know what I am doing to start.
+I think if there was a tutorial I would like it more for someone who doesn't play very many games. But I like the little guy and the ability to move him around (character).
+(Would you have liked a bit of text in the empty space for controls and your goals as a player?) Maybe. For the first level / tutorial, I need the controls and objectives of the game because that was a steep learning curve, but after the first few days I think I would have gotten it.
+
+### Did the user need help to learn the game mechanics from the test supervisor?
+I didn't know how to move, and I used WASD for the first time for movement, but found arrow keys better, and controller best.
+I didn't find the majority of the game's concepts intuitive, I didn't know I should be making things without prompting and that I need to interact with fridges and machines.
+I don't know why I failed when I ran out of time, and the test supervisor had to explain that to me.
+
+### Did the user finish level one? How many attempts?
+No, Even after 5 attempts with explanations of the goals of the game, the player was not able to complete any contracts, and at most completed 1/2 citric acid.
+
+### Was there any game breaking bugs?
+I got stuck on a number of counter tops and decor items since the clipping of the hitboxes was weird.
+I kept accidentally putting items in a machine, and I want to take it out, but the "take item" interaction was broken, so I can't (resulted in a lot of frustration).
+
+### General feedback/suggestions from the tester:
+I really have no idea how to make the final product and what steps to do it. I need a visual prompting of some sort to tell me that.
+If you could hover over the clipboard and see what steps to make each incremental item to create the final product, that would be very nice to reduce the learning curve.
+If I go up to something and even if I can't interact with it, it would be cool to see text of what it is (i.e., if you are standing in front of a TV, it just says "TV" in the text box, but no interactions, Note: tester attempted to interact with many non-interactable decor pieces, such as the desk, MRI machine, or lockers)
+I didn't know that I need to mix and then separate, why would I have to separate something instead of just mixing again? (what is the purpose of having multiple machines if both take 2 inputs and give 1 output and take the same time)
+I need something to make the machines/fridges/depots to stand out over the other decor, and I need a tutorial or recipe guide to tell me what to do.
+A bit of story could be nice, but it doesn't feel very necessary, although it could make it more interesting for a gamer to have some story behind the lab's actions.
