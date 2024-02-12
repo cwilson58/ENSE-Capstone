@@ -25,6 +25,7 @@ Our ENSE 2023-24 Capstone project is designing a casual strategy game based on c
 5. Vlog Links
     * [Vlog One](https://www.youtube.com/watch?v=XWV1ut0_08I)
     * [Vlog Two](https://www.youtube.com/watch?v=t_021nSpBWI)
+    * [Vlog Three](https://www.youtube.com/watch?v=sjCliObzLGQ)
 
 ## Members
 Nicolas Ansell, Michael Osachoff, Julian Gonzales, Cameron Wilson
