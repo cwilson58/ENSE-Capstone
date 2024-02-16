@@ -4,8 +4,10 @@ Our ENSE 2023-24 Capstone project is designing a casual strategy game based on c
 ## Table of Contents
 1. Game Releases
     * [PreAlpha v0.0.1](https://drive.google.com/file/d/1-pNhrrtKu_SsJhlYNJCxSJfyWQam4DbT/view?usp=sharing)
-2. Testing
+    * [PreAlpha v0.0.2](https://drive.google.com/file/d/1hRsVMrHokHQozdoUDbarStqB4SgyWDZR/view?usp=sharing)
+2. Testing Results
     * [PreAlpha v0.0.1](UserTestingDocs/FeedbackDocs/PreAlpha0.0.1.md)
+    * PreAlpha v0.0.2 : In progress
 3. Initialization Documents
     * [Roadmap](UnorganizedFiles/Roadmap.md)
     * [Business Case](InitializationDocs/BusinessCase.pdf)
@@ -39,3 +41,5 @@ Growing up our whole team was surrounded by a culture of gaming, we were raised 
 ### Inspiration
 One game that heavily inspired our idea for Project Valence is called 'Plate Up' where chefs in a kitchen frantically prepare recipes for customers, wash dishes, and bus tables. We wanted to take this idea and put it into the world of chemistry, the possibilities for products that can be made in a lab are nearly endless and the complexity of different pieces of lab equipment allows for an interesting and diverse experience with lots of opportunity for each playthrough to be different from your last. The idea of randomness embedded in the game is important, this is what makes each play through interesting, you don't know what product you're starting with and might have to learn on the fly how to use new pieces of equipment.
 
+### License
+You are prohibited from copying or redistributing this projects code without permission from the owners.
