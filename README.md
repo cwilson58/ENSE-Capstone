@@ -1,6 +1,9 @@
 ## Project idea
 Our ENSE 2023-24 Capstone project is designing a casual strategy game based on chemistry, where players will run a chemistry lab until they fail to complete various objectives. 
 
+## Abstract
+Project Valence is a 2D, top-down casual strategy game. Players are spawned in a chemistry laboratory where their goal is to complete a contract provided by various clients. With a new one provided each day, these contracts require the player to synthesize and deposit products generated in their laboratory. Failure to complete the day before the time runs out will cause the player to complete their run. After completing each day, the player will receive payment for the contract and move on to the next day. The products are created by combining the correct ingredients in the correct machines, otherwise garbage will be created. The recipes for these products are provided to the user to allow them to create the correct result. The physical structures of these labs are from a few predefined sets, but the machines and depots of ingredients are randomly generated to create a unique experience for every playthrough.
+
 ## Table of Contents
 1. Game Releases
     * [PreAlpha v0.0.1](https://drive.google.com/file/d/1-pNhrrtKu_SsJhlYNJCxSJfyWQam4DbT/view?usp=sharing)
