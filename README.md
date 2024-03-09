@@ -8,9 +8,11 @@ Project Valence is a 2D, top-down casual strategy game. Players are spawned in a
 1. Game Releases
     * [PreAlpha v0.0.1](https://drive.google.com/file/d/1-pNhrrtKu_SsJhlYNJCxSJfyWQam4DbT/view?usp=sharing)
     * [PreAlpha v0.0.2](https://drive.google.com/file/d/1hRsVMrHokHQozdoUDbarStqB4SgyWDZR/view?usp=sharing)
+    * [PreAlpha v0.0.3](https://github.com/cwilson58/ENSE-Capstone/releases/tag/PreAlpha0.0.3)
 2. Testing Results
     * [PreAlpha v0.0.1](UserTestingDocs/FeedbackDocs/PreAlpha0.0.1.md)
-    * PreAlpha v0.0.2 : In progress
+    * [PreAlpha v0.0.2](UserTestingDocs/FeedbackDocs/PreAlpha0.0.2.md)
+    * PreAlpha v0.0.3 : In Progress
 3. Initialization Documents
     * [Roadmap](UnorganizedFiles/Roadmap.md)
     * [Business Case](InitializationDocs/BusinessCase.pdf)
