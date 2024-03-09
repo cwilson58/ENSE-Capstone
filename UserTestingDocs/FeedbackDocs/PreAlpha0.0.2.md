@@ -9,7 +9,8 @@ For the 6 testers in this version, 3 placed themselves in the most experienced g
 3 testers used only mouse and keyboard, 2 used only controller, and 1 tested with both.
 
 ### How did the spawning of the Drop off location, Trash can, pickup locations, and countertops feel?
-In general testers found spawning of these interactable items to be good but, could be really far away at 09:41:36
+In general testers found spawning of these interactable items to be good but, could be really far away at times
+
 
 ### Days completed
 Players completed from 2 to 5 days without the use of glitches in an even spread
