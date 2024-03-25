@@ -26,7 +26,7 @@ Michael Osachoff, Nicolas Ansell, Julian Gonzales, Cameron Wilson
    * [PreAlpha v0.0.2](UserTestingDocs/FeedbackDocs/PreAlpha0.0.2.md)
    * PreAlpha v0.0.3 : In Progress
 ## Initialization Documents
-   * [Roadmap](UnorganizedFiles/Roadmap.md)
+   * [Roadmap](InitializationDocs/Roadmap.md)
    * [Business Case](InitializationDocs/BusinessCase.pdf)
    * [Communication Management Plan](InitializationDocs/CommunicationManagementPlan.pdf)
    * [Low Fidelity Drawings](InitializationDocs/LowFidelityDrawings.pdf)
