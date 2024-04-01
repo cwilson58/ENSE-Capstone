@@ -1,4 +1,4 @@
-![image](https://github.com/cwilson58/ENSE-Capstone/assets/25047120/9e7010ae-cf45-4ba5-afe7-476d5d9e4a75)
+![image](https://github.com/cwilson58/ENSE-Capstone/assets/25047120/6eca53db-4e79-4559-a96f-7c2c551f7e7e)
 ## Abstract
 Project Valence is a 2D, top-down casual strategy game. Players are spawned in a chemistry laboratory where their goal is to complete a contract provided by various clients. With a new one provided each day, these contracts require the player to synthesize and deposit products generated in their laboratory. Failure to complete the day before the time runs out will cause the player to complete their run. After completing each day, the player will receive payment for the contract and move on to the next day. The products are created by combining the correct ingredients in the correct machines, otherwise garbage will be created. The recipes for these products are provided to the user to allow them to create the correct result. The physical structures of these labs are from a few predefined sets, but the machines and depots of ingredients are randomly generated to create a unique experience for every playthrough.
 
