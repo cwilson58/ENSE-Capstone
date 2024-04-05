@@ -68,7 +68,7 @@ Michael Osachoff, Nicolas Ansell, Julian Gonzales, Cameron Wilson
    * [Vlog Three](https://www.youtube.com/watch?v=sjCliObzLGQ)
 ## Other Video Links
    * [Commercial](https://www.youtube.com/watch?v=oIyrmyY3V9U)
-   * [Demo](https://www.youtube.com/watch?v=akbQ4OHn30I&t=9s)
+   * [Demo](https://www.youtube.com/watch?v=akbQ4OHn30I)
 ## Mentor
 Adam Tilson
 
