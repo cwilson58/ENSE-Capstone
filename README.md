@@ -1,4 +1,4 @@
-![image](https://github.com/cwilson58/ENSE-Capstone/assets/25047120/6eca53db-4e79-4559-a96f-7c2c551f7e7e)
+[![image](https://github.com/cwilson58/ENSE-Capstone/assets/25047120/6eca53db-4e79-4559-a96f-7c2c551f7e7e)](https://www.youtube.com/watch?v=oIyrmyY3V9U)
 ## Abstract
 Project Valence is a 2D, top-down casual strategy game. Players are spawned in a chemistry laboratory where their goal is to complete a contract provided by various clients. With a new one provided each day, these contracts require the player to synthesize and deposit products generated in their laboratory. Failure to complete the day before the time runs out will cause the player to complete their run. After completing each day, the player will receive payment for the contract and move on to the next day. The products are created by combining the correct ingredients in the correct machines, otherwise garbage will be created. The recipes for these products are provided to the user to allow them to create the correct result. The physical structures of these labs are from a few predefined sets, but the machines and depots of ingredients are randomly generated to create a unique experience for every playthrough.
 
@@ -9,9 +9,9 @@ Project Valence is a 2D, top-down casual strategy game. Players are spawned in a
 2. Read instructions and EULA
 3. Run Project Valence.exe
 ### Previous Release
-* [PreAlpha v0.0.3](https://github.com/cwilson58/ENSE-Capstone/releases/tag/PreAlpha0.0.3)
 * [PreAlpha v0.0.1](https://drive.google.com/file/d/1-pNhrrtKu_SsJhlYNJCxSJfyWQam4DbT/view?usp=sharing)
 * [PreAlpha v0.0.2](https://drive.google.com/file/d/1hRsVMrHokHQozdoUDbarStqB4SgyWDZR/view?usp=sharing)
+* [PreAlpha v0.0.3](https://github.com/cwilson58/ENSE-Capstone/releases/tag/PreAlpha0.0.3)
 
 ## How to Play
 1. Select a contract <br>
@@ -56,17 +56,19 @@ Michael Osachoff, Nicolas Ansell, Julian Gonzales, Cameron Wilson
    * [Stakeholder Engagement Plan](InitializationDocs/StakeholderEngagementPlan.pdf)
    * [Stakeholder Register](InitializationDocs/StakeholderRegister.pdf)
    * [Storyboard](InitializationDocs/Storyboard.pdf)
-     
+
 ## Game Design Documentation
    * [Gameplay Ideas](GameDesignDocs/Gameplay.md)
    * [Machine Ideas](GameDesignDocs/Machines.md)
    * [Recipe Ideas](GameDesignDocs/Recipes.md)
-     
+
 ## Vlog Links
    * [Vlog One](https://www.youtube.com/watch?v=XWV1ut0_08I)
    * [Vlog Two](https://www.youtube.com/watch?v=t_021nSpBWI)
    * [Vlog Three](https://www.youtube.com/watch?v=sjCliObzLGQ)
-
+## Other Video Links
+   * [Commercial](https://www.youtube.com/watch?v=oIyrmyY3V9U)
+   * [Demo](https://www.youtube.com/watch?v=akbQ4OHn30I&t=9s)
 ## Mentor
 Adam Tilson
 
