@@ -32,6 +32,11 @@ Growing up our whole team was surrounded by a culture of gaming, we were raised 
 ## Members
 ![image](https://github.com/cwilson58/ENSE-Capstone/assets/25047120/df587e5f-5d37-4aaa-afff-329bc3d62ba4)
 Michael Osachoff, Nicolas Ansell, Julian Gonzales, Cameron Wilson
+## Reports
+1. [Project Experience Report](./Reports/ProjectExperienceReport.pdf)
+2. [Code Quality Review](./Reports/CodeQualityReview.pdf)
+3. [Code Testing and User Testing](./Reports/UserTestingPlanAndResults.pdf)
+
 ## Testing Results
 1. Gaming Experience Level <br>
    ![image](https://github.com/cwilson58/ENSE-Capstone/assets/25047120/a64e11f5-59d8-4034-a9c6-7bf1a22d08c7)
