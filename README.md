@@ -36,7 +36,7 @@ Michael Osachoff, Nicolas Ansell, Julian Gonzales, Cameron Wilson
 1. [Project Experience Report](./Reports/ProjectExperienceReport.pdf)
 2. [Code Quality Review](./Reports/CodeQualityReview.pdf)
 3. [Code Testing and User Testing](./Reports/UserTestingPlanAndResults.pdf)
-4. [Code Testing and User Testing](./Reports/ProjectDayPresentation.pdf)
+4. [Project Day Presentation](./Reports/ProjectDayPresentation.pdf)
 
 ## Testing Results
 1. Gaming Experience Level <br>
